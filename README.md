@@ -1,2 +1,2 @@
 # Formfiller
-First project 2021
+First personal project (2021)
